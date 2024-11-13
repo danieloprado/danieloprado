@@ -7,7 +7,7 @@
 
 ### Featured Projects
 <div>
- <a href="https://github.com/eduzz/houston" target="_blank">
+ <a href="https://github.com/eduzz/ui-layout" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduzz&repo=ui-layout&theme=react&show_owner=true" />
  </a>
   <a href="https://github.com/eduzz/template-react" target="_blank">
